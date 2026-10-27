@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "serverbot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "HASIYA.aternos.me",
+    "port": 51640,
     "version": "",
     "try-creative": false
   },
